@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logo">Android Weather</string>
+    <string name="hint_user_field">Enter city</string>
+    <string name="main_btn">Search</string>
+    <string name="no_user_input">City entered incorrectly</string>
+</resources>
